@@ -622,6 +622,37 @@ footer h3 {
 
 }
 
+@media screen and (max-width: 1180px){
+#plano_inicial { 
+    text-align: center;
+    font-size: 2rem;
+}
+
+#plano_intermediario {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#plano_avancado {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.text2 h2 {
+    font-size: 1rem;
+}
+
+.text2 li {
+    font-size: 0.8rem;
+}
+
+.text2 p {
+    font-size: 0.8rem;
+}
+
+}
+
+
 
 
 

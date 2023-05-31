@@ -615,15 +615,13 @@ footer h3 {
     .open {
         display: block;
     }
-    .main2, .title, .text2, .tittle2, li, h2, #plano_inicial, #plano_intermediario, #plano_avancado{
-        width: 100%;
-    }
 
 
 }
 
 @media screen and (max-width: 1180px){
-#plano_inicial { 
+
+    #plano_inicial { 
     text-align: center;
     font-size: 2rem;
 }

@@ -1,3 +1,5 @@
+
+
 const imgContainer = document.querySelector('.img-container')
 const btnLeft = document.querySelector('.btn-left')
 const btnRight = document.querySelector('.btn-right')
@@ -26,3 +28,4 @@ function buttomLeft(){
 
  btnRight.addEventListener('click', buttomRight)
  btnLeft.addEventListener('click', buttomLeft)
+
